@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Christofer Canchari 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Estudiante+de+An%C3%A1lisis+de+Sistemas+Empresariales;Java+%26+Python+Developer+in+Training;Apasionado+por+el+Desarrollo+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=650&lines=Estudiante+de+An%C3%A1lisis+de+Sistemas+Empresariales;Java+%26+Python+Developer+in+Training;Apasionado+por+el+Desarrollo+de+Software" alt="Typing SVG" />
 </p>
 
 ---
