@@ -206,23 +206,11 @@ gestión y envío de declaraciones juradas.
 
 ---
 
-<h2 align="center">🎯 Mi camino</h2>
+<h3 align="center">🎯 Mi camino</h3>
 
 <p align="center">
-
-🎓 <b>Estudiar</b>
-  →  
-💻 <b>Practicar</b>
-  →  
-🧪 <b>Experimentar</b>
-  →  
-🚀 <b>Crear</b>
-  →  
-🧠 <b>Mejorar</b>
-
+  🎓 <b>Estudiar</b> ➔ 💻 <b>Practicar</b> ➔ 🧪 <b>Experimentar</b> ➔ 🚀 <b>Crear</b> ➔ ✨ <b>Mejorar</b>
 </p>
-
-<br>
 
 <p align="center">
   <i>"Todavía estoy aprendiendo, pero cada proyecto me acerca un poco más a lo que quiero llegar a ser."</i>
@@ -230,46 +218,36 @@ gestión y envío de declaraciones juradas.
 
 ---
 
-<h2 align="center">📈 Mis estadísticas de GitHub</h2>
+<h3 align="center">📈 Mis estadísticas de GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christofercanchari-collab&show_icons=true&theme=dark&hide_border=true&locale=es" width="48%" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofercanchari-collab&layout=compact&theme=dark&hide_border=true&locale=es" width="48%" alt="Lenguajes más usados"/>
-</p>
-
-<br>
-
-<!-- ESTADÍSTICAS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACTUAL&show_icons=true&theme=dark&hide_border=true&locale=es" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACTUAL&layout=compact&theme=dark&hide_border=true&locale=es" width="48%" alt="Lenguajes más usados" />
-</p>
-
-<!-- ACTIVIDAD / RACHA -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_ACTUAL&theme=dark&locale=es" width="97%" alt="Racha de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christofercanchari-collab&show_icons=true&theme=dark&hide_border=true&locale=es" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofercanchari-collab&layout=compact&theme=dark&hide_border=true&locale=es" width="48%" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-
-<a href="https://github.com/ChristoferCanchariDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:christofer.canchari@vallegrande.edu.pe">
-  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christofercanchari-collab&theme=dark&locale=es" width="97%" alt="Racha de GitHub" />
 </p>
 
-<br>
+---
+
+<h3 align="center">🌐 Encuéntrame</h3>
 
 <p align="center">
+  <a href="https://github.com/christofercanchari-collab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:christofer.canchari@vallegrande.edu.pe">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+</p>
 
-<b>🎓 Análisis de Sistemas Empresariales</b> <br> <b>💻 Estudiante • Aprendiz • Creador</b>
+<br />
 
-<br><br>
+<p align="center">
+  🎓 <b>Análisis de Sistemas Empresariales</b> | 💻 <b>Estudiante • Aprendiz • Creador</b>
+</p>
 
-⭐ <i>Gracias por visitar mi perfil</i> ⭐
-
+<p align="center">
+  ⭐ <b>¡Gracias por visitar mi perfil!</b> ⭐
 </p>
