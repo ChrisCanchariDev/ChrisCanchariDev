@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Christofer Canchari 👋</h1>
+<h2 align="left">¡Hola Mundo! Soy Christofer, te doy la bienvenida 👋</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=650&lines=Estudiante+de+An%C3%A1lisis+de+Sistemas+Empresariales;Java+%26+Python+Developer+in+Training;Apasionado+por+el+Desarrollo+de+Software" alt="Typing SVG" />
@@ -15,27 +15,27 @@
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<!-- ÍCONOS GRANDES DE TECNOLOGÍAS (SKILLICONS) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,bootstrap,git,github,vscode&perline=9" alt="Mis Habilidades" />
+  </a>
 </p>
 
----
+<br />
 
-### 📊 Estadísticas de GitHub
-
-<!-- Recuerda reemplazar TU_USUARIO por tu usuario exacto de GitHub -->
+<!-- BADGES/ESCUDOS DE REDES Y CONTACTO -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" width="97%" />
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:christofer.canchari@vallegrande.edu.pe">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
 </p>
