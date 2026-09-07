@@ -1,13 +1,3 @@
-<h3 align="center">
-🎓 Estudiante de Análisis de Sistemas Empresariales
-</h3>
-
-<p align="center">
-  <i>Aprendiendo, creando y convirtiendo ideas en soluciones mediante la tecnología.</i>
-</p>
-
-<br>
-
 <p align="center">
  <div align="center">
 
