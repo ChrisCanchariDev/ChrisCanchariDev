@@ -1,9 +1,3 @@
-<h1 align="center">
-  <span style="background-color:#0d1117; color:#36BCF7; padding:15px 30px; border-radius:12px;">
-    CHRISTOFER CANCHARI
-  </span>
-</h1>
-
 <h3 align="center">
 🎓 Estudiante de Análisis de Sistemas Empresariales
 </h3>
