@@ -15,7 +15,19 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🎓+Estudiante+de+Análisis+de+Sistemas;💻+Aprendiendo+Programación;🌐+Desarrollo+Web;🗄️+Bases+de+Datos;🚀+Construyendo+mi+camino+en+Tecnología" alt="Typing SVG" />
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=CHRISTOFER%20CANCHARI&fontSize=52&fontColor=ffffff&color=0:050816,50:0D2A4A,100:0072FF&fontAlignY=45&animation=fadeIn" width="100%"/>
+
+<h3>🎓 Estudiante de Análisis de Sistemas Empresariales</h3>
+
+<p>
+💻 Programación &nbsp; • &nbsp;
+🌐 Desarrollo Web &nbsp; • &nbsp;
+🗄️ Bases de Datos
+</p>
+
+</div>
 </p>
 
 ---
