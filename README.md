@@ -239,19 +239,20 @@ gestión y envío de declaraciones juradas.
 
 <br>
 
-<h2 align="center">🔥 Mi actividad</h2>
-
+<!-- ESTADÍSTICAS -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=christofercanchari-collab&theme=dark&hide_border=true" width="60%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACTUAL&show_icons=true&theme=dark&hide_border=true&locale=es" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACTUAL&layout=compact&theme=dark&hide_border=true&locale=es" width="48%" alt="Lenguajes más usados" />
 </p>
 
----
-
-<h2 align="center">🌐 Encuéntrame</h2>
+<!-- ACTIVIDAD / RACHA -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_ACTUAL&theme=dark&locale=es" width="97%" alt="Racha de GitHub" />
+</p>
 
 <p align="center">
 
-<a href="https://github.com/christofercanchari-collab">
+<a href="https://github.com/ChristoferCanchariDev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
