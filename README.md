@@ -218,23 +218,10 @@ gestión y envío de declaraciones juradas.
 
 ---
 
-<h3 align="center">📈 Mis estadísticas de GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christofercanchari-collab&show_icons=true&theme=dark&hide_border=true&locale=es" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofercanchari-collab&layout=compact&theme=dark&hide_border=true&locale=es" width="48%" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christofercanchari-collab&theme=dark&locale=es" width="97%" alt="Racha de GitHub" />
-</p>
-
----
-
 <h3 align="center">🌐 Encuéntrame</h3>
 
 <p align="center">
-  <a href="https://github.com/christofercanchari-collab">
+  <a href="https://github.com/ChristoferCanchariDev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:christofer.canchari@vallegrande.edu.pe">
